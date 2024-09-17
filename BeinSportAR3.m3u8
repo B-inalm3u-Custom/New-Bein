@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:1,
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/77.ts

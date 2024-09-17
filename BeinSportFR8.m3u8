@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:1,
+http://laurenlending.pproxy.cc:80/play/live.php?mac=00:1A:79:74:08:F0&stream=37845&extension=ts
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=520509&extension=ts
